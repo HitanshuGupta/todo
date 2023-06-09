@@ -1,0 +1,27 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: auto;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+input {
+    padding: 5px;
+    width: 300px;
+}
+
+#add-button {
+    padding: 5px 10px;
+    background-color: brown;
+    color: aquamarine;
+    border-radius: 10px;
+}
+
+#delete-button {
+    background-color: crimson;
+    color: aquamarine;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
